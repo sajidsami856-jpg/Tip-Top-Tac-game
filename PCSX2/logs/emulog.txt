@@ -1,0 +1,136 @@
+[    0.0953] Loaded translation file for language en-US
+[    0.1162] PCSX2 v2.6.3
+[    0.1163] Savestate version: 0x9a550000
+[    0.1163] 
+[    0.1163] 
+[    0.1163] Host Machine Init:
+[    0.1163]   Operating System = Microsoft Windows 10+
+[    0.1163]   Available RAM    = 10197 MB (9.96 GB)
+[    0.1163]   Physical RAM     = 16309 MB (15.93 GB)
+[    0.1163] 
+[    0.1163]   Processor        = AMD Ryzen 5 5600 6-Core
+[    0.1164]   Core Count       = 6 cores
+[    0.1164]   Thread Count     = 12 threads
+[    0.1164]   Cluster Count    = 1 clusters
+[    0.1178]   Power Profile    = 'Hone Ultimate Power Plan V5'
+[    0.1178]   Power States (min/max)
+[    0.1178]     AC             = 100% / 100%
+[    0.1178]     Battery        = 5% / 100%
+[    0.1178] 
+[    0.1178] CPU Extensions Detected:
+[    0.1178]   AVX AVX2
+[    0.1178] 
+[    0.1178] Graphics Adapters Detected:
+[    0.1242]   GPU              = AMD Radeon RX 580 2048SP
+[    0.1242]   Driver Version   = 31.0.21923.11000
+[    0.1242] 
+[    0.1246]   GPU              = Microsoft Basic Render Driver
+[    0.1246]   Driver Version   = 10.0.26100.7309
+[    0.1246] 
+[    0.1264] SDLInputSource: Using Controller DB from resources.
+[    0.1714] SDLInputSource: 862 gamepad mappings are loaded.
+[    0.5934] Scanning C:\Users\Laptop Care\Desktop (recursively)
+[    0.6034] Surface refresh rate: 100 hz
+[    1.6315] Current version: v2.6.3
+[    1.6315] Latest version: v2.6.3
+[    1.6315] Last checked version: 
+[    1.6315] No update needed.
+[    1.6319] (AutoUpdaterDialog) All HTTP requests done.
+[   10.7576] Loading BIOS...
+[   10.7576] Searching for a BIOS image in 'C:\Users\Laptop Care\Documents\PCSX2\bios'...
+[   10.7778] BIOS Found: Europe  v01.60(04/10/2001)  Console 20011004-175839
+[   10.7778] Using BIOS 'C:\Users\Laptop Care\Documents\PCSX2\bios\PS2 Bios 30004R V6 Pal.bin' (Europe  v01.60(04/10/2001)  Console 20011004-175839 Europe)
+[   10.7779] BIOS Found: Europe  v01.60(04/10/2001)  Console 20011004-175839
+[   10.7884] BIOS rom1 module not found, skipping...
+[   10.7884] BIOS rom2 module not found, skipping...
+[   10.7962] Opening CDVD...
+[   10.8064] isoFile open ok: C:\Users\Laptop Care\Desktop\God of War (Asia).iso
+[   10.8064]   Image type  = DVD
+[   10.8111] isoFile: second layer found at sector 0x001fbf30
+[   10.8111]  * CDVD Disk Open: DVD, Double layer:
+[   10.8111]  * * Track 1: Data (Mode 1) (4161520 sectors)
+[   10.8247] GameDB: Has not been initialized yet, initializing...
+[   10.8592] GameDB: 12838 games on record (loaded in 34.56ms)
+[   10.8593] Disc changed to God of War (Asia).iso.
+[   10.8593]   Name: God of War
+[   10.8593]   Serial: SCUS-97399
+[   10.8594]   Version: 1.00
+[   10.8594]   CRC: D6385328
+[   10.8597] Applying settings...
+[   10.9022] Reopening memory cards...
+[   10.9132] McdSlot 0 [File]: Mcd001.ps2 [8 MB, Formatted]
+[   10.9238] McdSlot 1 [File]: Mcd002.ps2 [8 MB, Formatted]
+[   10.9246] HLE Host: Set 'host:' root path to: C:\Users\Laptop Care\Desktop
+[   10.9246] 
+[   10.9248] EE/iR5900 Recompiler Reset
+[   11.1330] Opening GS...
+[   11.1342] D3D: Found adapter 'AMD Radeon RX 580 2048SP'
+[   11.1511] D3D11 feature level for autodetection: c000
+[   11.2132] Surface refresh rate: 100 hz
+[   11.2542] VK_EXT_provoking_vertex is supported
+[   11.2542] VK_EXT_memory_budget is supported
+[   11.2542] VK_EXT_calibrated_timestamps is supported
+[   11.2542] VK_EXT_rasterization_order_attachment_access is NOT supported
+[   11.2542] VK_EXT_swapchain_maintenance1 is NOT supported
+[   11.2542] VK_EXT_full_screen_exclusive is supported
+[   11.2542] VK_KHR_driver_properties is supported
+[   11.2542] VK_EXT_attachment_feedback_loop_layout is supported
+[   11.2723] Read 353 entries from 'C:\Users\Laptop Care\Documents\PCSX2\cache\vulkan_shaders.idx'
+[   11.2883] Mailbox not supported for vsync-mailbox, using FIFO.
+[   11.5424] Vulkan Graphics Driver Info:
+[   11.5424] Driver 2.0.279
+[   11.5424] Vulkan 1.3.260
+[   11.5424] Conformance Version 1.3.3.1
+[   11.5424] 24.9.1 (AMD proprietary shader compiler)
+[   11.5424] AMD proprietary driver
+[   11.5424] AMD Radeon RX 580 2048SP
+[   11.5450] Opening SPU2...
+[   11.5457] Creating Cubeb audio stream, sample rate = 48000, expansion = Disabled, buffer = 50, latency = 20, stretching enabled, driver = , device = 
+[   11.5631] Initializing Pad...
+[   11.5631] Initializing SIO2...
+[   11.5631] Initializing SIO0...
+[   11.5631] Opening DEV9...
+[   11.5660] Opening USB...
+[   11.5660] Opening FW...
+[   11.5737] VM subsystems initialized in 818.92 ms
+[   11.6099] EE/iR5900 Recompiler Reset
+[   11.6308] MTVU speedhack is enabled, saved states may not be stable
+[   11.6321] ELF changed, active CRC D6385328 (cdrom0:\SCUS_973.99;1)
+[   11.6327] Found 2 game patches in SCUS-97399_D6385328.pnach.
+[   11.6328] Applying core settings...
+[   11.6331] GameDB: Enabled GS Hardware Fix: halfPixelOffset to [mode=5]
+[   11.6331] GameDB: Enabled GS Hardware Fix: autoFlush to [mode=1]
+[   11.6331] Updating CPU configuration...
+[   11.6331] EE/iR5900 Recompiler Reset
+[   11.6519] Updating GS configuration...
+[   11.6559] OSD [AutoEjectAllSet]: Force ejecting all Memory Cards. Reinserting in 1 second.
+[   11.7942]   Loading SPU2
+[   11.8093]   Loading GS
+[   11.8819] UpdateVSyncRate: Mode Changed to NTSC.
+[   12.8830] OSD [AutoEjectAllSet]: Memory Cards reinserted.
+[   18.8778] Surface refresh rate: 100 hz
+[   29.3236] SDLInputSource: Gamepad 1 inserted
+[   29.3260] SDLInputSource: Opened gamepad 1 (instance id 1, player id 0): XInput Controller
+[   29.3261] SDLInputSource: Gamepad 0 has 6 axes and 11 buttons
+[   29.3261] SDLInputSource: Rumble is supported on 'XInput Controller' via gamepad
+[   29.3261] OSD [controller_connected_SDL-0]: Controller SDL-0 connected.
+[   37.5562] Surface refresh rate: 100 hz
+[   42.2563] Surface refresh rate: 100 hz
+[  218.2713] UpdateVSyncRate: Mode Changed to NTSC.
+[  218.2716] UpdateVSyncRate: Mode Changed to NTSC.
+[  927.9954] UpdateVSyncRate: Mode Changed to NTSC.
+[  927.9955] UpdateVSyncRate: Mode Changed to NTSC.
+[ 1004.4771] UpdateVSyncRate: Mode Changed to NTSC.
+[ 1004.4772] UpdateVSyncRate: Mode Changed to NTSC.
+[ 1366.6846] OSD [MemoryCardSave1]: Memory Card 'Mcd002.ps2' was saved to storage.
+[ 2471.5676] UpdateVSyncRate: Mode Changed to NTSC.
+[ 2471.5678] UpdateVSyncRate: Mode Changed to NTSC.
+[ 2539.3195] OSD [MemoryCardSave1]: Memory Card 'Mcd002.ps2' was saved to storage.
+[ 2541.9375] Surface refresh rate: 100 hz
+[ 2547.3432] (VMManager) Pausing...
+[ 2551.2272] MTVU speedhack is enabled, saved states may not be stable
+[ 2551.2346]   Saving SPU2
+[ 2551.2348]   Saving GS
+[ 2551.2363] Add 2535 seconds play time to SCUS-97399 -> now 8274
+[ 2551.4126] Writing 1814760 bytes to 'C:\Users\Laptop Care\Documents\PCSX2\cache\vulkan_pipelines.bin'
+[ 2551.5461] Releasing host memory for virtual systems...
